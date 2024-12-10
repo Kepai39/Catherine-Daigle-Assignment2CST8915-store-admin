@@ -40,7 +40,7 @@
     </div>
   </div>
   <div class="order-detail" v-else>
-    <h3>Opps! That order was not found...</h3>
+    <h3>Oops! That order was not found...</h3>
   </div>
 </template>
 
