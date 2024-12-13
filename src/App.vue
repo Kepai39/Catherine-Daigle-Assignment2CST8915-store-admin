@@ -175,7 +175,7 @@ td {
 .order-detail {
   text-align: left;
 }
-
+/* change style color to blue to match bestbuy aesthetic */
 button {
   padding: 10px;
   background-color: #005f8b;
